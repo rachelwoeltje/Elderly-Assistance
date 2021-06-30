@@ -1,4 +1,4 @@
-# Elderly Assistance
+# Low Income and Elderly Assistance
 Analyzing data in Excel based on areas with low income and elderly assistance.
 
 Collaborated with: Holly Therrell, Robert Gallagher Ortega, and Toni Kim
