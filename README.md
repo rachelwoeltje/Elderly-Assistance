@@ -16,6 +16,8 @@ height: height of the returned reference (optional)
 width: width of the returned reference (optional)
 ```
 
+![image](https://user-images.githubusercontent.com/77589773/125504777-6ec35cf6-ebee-40c3-9b76-383d900d459f.png)
+
 2. Calculate the following information _*for each state*_ to gain insights into the data:  
 
     a. What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentages of elderly returns.
