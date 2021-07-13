@@ -1,9 +1,7 @@
-# Low Income and Elderly Assistance
+# Interactive Excel Dashboard for Informing Low Income and Elderly Assistance Grants
 Analyzing data in Excel based on areas with low income and elderly assistance.
 
 Collaborated with: Holly Therrell, Robert Gallagher Ortega, and Toni Kim
-
-Interactive Excel Dashboard For Informing Low Income and Elderly Assistance Grants
 
 You have been tasked with creating an interactive dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers. You have been asked to create this dashboard using the provided 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. Below are a series of questions to help you think about what visualizations would be helpful in your dashboard. You will give a 10-15 minute presentation on your dashboard to the HUA board to show them how to use it and what insights your dashboard can provide.
 
